@@ -1,2 +1,2 @@
-# hello-word
-дз geekbrains
+Привет! 
+Использую  Git  для  домашки  )
